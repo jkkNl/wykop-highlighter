@@ -1,0 +1,8 @@
+youtube.com = #b71c1c
+x.com = #fffb00
+facebook.com = #1a00ff
+
+
+tag:nauka = rgba(21, 101, 192, 0.12)
+tag:medycyna = rgba(46, 125, 50, 0.12)
+tag:polityka = rgba(239, 108, 0, 0.12)
